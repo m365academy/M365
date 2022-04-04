@@ -1,2 +1,2 @@
-# M365
+# M365 DNS Check scripts
  
